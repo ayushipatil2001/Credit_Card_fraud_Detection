@@ -4,9 +4,18 @@ It is important that credit card companies are able to recognize fraudulent cred
 
 # Process for this model building
 Importing necessary libraries and dataset
+
 Getting familiar with the dataset
+
 Cleaning the dataset
+
 Processing the dataset
+
 Splitting the data into Train and Test data
+
 Training the model using Train data
+
 Checking the accuracy score of the model
+
+# Dataset link
+https://www.kaggle.com/mlg-ulb/creditcardfraud
